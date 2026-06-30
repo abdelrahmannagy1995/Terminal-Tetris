@@ -4,7 +4,7 @@ A streamlined, non-rotational 2D Tetris engine built entirely to run within the 
 
 ## Features
 * **Zero-Dependency Graphics:** Rendered completely using standard text-streams (`[]` blocks and `|` walls).
-* ** lateral Feature Split:** Developed collaboratively where both engineers share ownership of the backend physics engine and frontend display modules.
+* **lateral Feature Split:** Developed collaboratively where both engineers share ownership of the backend physics engine and frontend display modules.
 * **Simplified Layout:** Uses 3 core classic shapes with optimized collision mechanics.
 
 ## Default Controls
